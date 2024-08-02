@@ -19,7 +19,7 @@ I'm a passionate computer engineering student at FIB - UPC heavily interested in
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=albeertauleet&show_icons=true&hide_border=true&theme=calm)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=albeertauleet&show_icons=true&hide_border=true&theme=merko)
 
 ## 📌 Featured Projects
 
