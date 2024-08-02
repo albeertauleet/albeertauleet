@@ -12,12 +12,10 @@ I'm a passionate computer engineering student at FIB - UPC heavily interested in
 
 ## 🚀 Technologies and Tools
 
-<p align="center">
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B" alt="C++">
-    <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c" alt="C">
-    <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
-</p>
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 📈 GitHub Stats
 
