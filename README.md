@@ -17,10 +17,6 @@ I'm a passionate computer engineering student at FIB - UPC heavily interested in
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=albeertauleet&show_icons=true&hide_border=true&theme=gruvbox-light)
-
 ## 📌 Featured Projects
 
 ### [Sistema Bicing](https://github.com/albeertauleet/sistema-bicing)
