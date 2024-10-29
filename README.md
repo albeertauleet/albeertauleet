@@ -7,7 +7,7 @@
 I'm a passionate computer engineering student at FIB - UPC heavily interested in algorithms and AI.
 
 - 🌱 I’m currently learning HTML5, JavaScript, and CSS.
-- 👯 I’m looking to collaborate on open source projects.
+- 👨🏼‍💻 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: albert.aulet013@gmail.com
 
 ## 🚀 Technologies and Tools
