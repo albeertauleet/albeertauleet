@@ -1,7 +1,5 @@
 # Hi there! I'm Albert Aulet 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/albeertauleet?style=social)](https://github.com/albeertauleet)
-
 ## About Me
 
 I'm a passionate computer engineering student at FIB - UPC heavily interested in algorithms and AI.
