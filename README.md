@@ -4,7 +4,7 @@
 
 I'm a passionate computer engineering student at FIB - UPC heavily interested in algorithms and AI.
 
-- 🌱 I’m currently learning Haskell and JavaScript.
+- 🌱 I’m currently learning Haskell, HTML and JavaScript.
 - 👨🏼‍💻 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: albert.aulet013@gmail.com
 
