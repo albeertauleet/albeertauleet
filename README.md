@@ -26,4 +26,4 @@ Exercises to practice for the EDA exams (a subject in the Computer Engineering d
 ## 🌐 Find Me At
 
 [![GitHub: albeertauleet](https://img.shields.io/github/followers/albeertauleet?style=social)](https://github.com/albeertauleet)
-[![Instagram: albeert.auleet](https://img.shields.io/badge/-albeert.auleet-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/albeert.auleet/)](https://www.instagram.com/albeert.auleet/)
+[![Instagram: albeertauleet](https://img.shields.io/badge/-albeertauleet-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/albeertauleet/)](https://www.instagram.com/albeertauleet/)
