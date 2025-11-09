@@ -40,6 +40,12 @@ A bicing system implemented as a binary tree, where each node represents a stati
 Exercises to practice for the EDA exams in the Computer Engineering degree at UPC.
 
 ---
+
+## 📊 GitHub Contributions
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+---
 ## 🌐 Find Me At
 
 [![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/albeertauleet)
