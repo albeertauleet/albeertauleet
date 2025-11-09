@@ -43,7 +43,7 @@ Exercises to practice for the EDA exams in the Computer Engineering degree at UP
 
 ## 📊 GitHub Contributions
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ---
 ## 🌐 Find Me At
