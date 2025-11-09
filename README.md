@@ -1,29 +1,48 @@
 # Hi there! I'm Albert Aulet 👋
 
 ## About Me
+I'm a passionate computer engineering student at FIB - UPC, heavily interested in algorithms and AI.
 
-I'm a passionate computer engineering student at FIB - UPC heavily interested in algorithms and AI.
+- 🌱 Currently learning Qiskit and PyTorch 
+- 👨🏼‍💻 Looking to collaborate on open source projects  
+- 📫 Reach me at: albert.aulet013@gmail.com  
 
-- 🌱 I’m currently learning Haskell, HTML and JavaScript.
-- 👨🏼‍💻 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: albert.aulet013@gmail.com
+---
 
-## 🚀 Technologies and Tools
+## 🚀 Languages and Tools
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,haskell,prolog&perline=6&theme=light)](https://skillicons.dev)
+
+### Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=qt,sklearn&perline=2&theme=light)](https://skillicons.dev)
+
+### Version Control
+[![My Skills](https://skillicons.dev/icons?i=git,github&perline=2&theme=light)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=postgres&perline=1&theme=light)](https://skillicons.dev)
+
+### Editors & IDEs
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea&perline=2&theme=light)](https://skillicons.dev)
+
+### Other Tools
+[![My Skills](https://skillicons.dev/icons?i=latex,linux,notion&perline=3&theme=light)](https://skillicons.dev)
+
+---
 
 ## 📌 Featured Projects
 
 ### [Sistema Bicing](https://github.com/albeertauleet/sistema-bicing)
-A bicing system implemented as a binary tree, where each node represents a different station. Various operations can be applied at each station to organize the different bikes in the system.
+A bicing system implemented as a binary tree, where each node represents a station. Various operations allow efficient organization of bikes.
 
 ### [Ejercicios EDA](https://github.com/albeertauleet/ejercicios-eda)
-Exercises to practice for the EDA exams (a subject in the Computer Engineering degree at the UPC).
+Exercises to practice for the EDA exams in the Computer Engineering degree at UPC.
 
+---
 ## 🌐 Find Me At
 
-[![GitHub: albeertauleet](https://img.shields.io/github/followers/albeertauleet?style=social)](https://github.com/albeertauleet)
-[![Instagram: albeertauleet](https://img.shields.io/badge/-albeertauleet-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/albeertauleet/)](https://www.instagram.com/albeertauleet/)
+[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/albeertauleet)
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/albeertauleet/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/albert-aulet/) 
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:albert.aulet013@gmail.com)
