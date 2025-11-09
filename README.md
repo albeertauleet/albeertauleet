@@ -46,3 +46,6 @@ Exercises to practice for the EDA exams in the Computer Engineering degree at UP
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/albeertauleet/)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/albert-aulet/) 
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:albert.aulet013@gmail.com)
+
+
+![](./profile-3d-contrib/profile-gitblock.svg)
