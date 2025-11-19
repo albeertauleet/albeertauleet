@@ -12,7 +12,9 @@ I'm a passionate computer engineering student at FIB - UPC, heavily interested i
 ## 🚀 Languages and Tools
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,haskell,prolog&perline=6&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,haskell&perline=6&theme=light)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_prolog.svg" width="48" />
+
 
 ### Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=qt,sklearn&perline=2&theme=light)](https://skillicons.dev)
