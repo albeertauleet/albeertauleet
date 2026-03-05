@@ -35,9 +35,8 @@ I'm a passionate computer engineering student at FIB - UPC, heavily interested i
 
 ## 📌 Featured Projects
 
-### [Sistema Bicing](https://github.com/albeertauleet/sistema-bicing)
-A bicing system implemented as a binary tree, where each node represents a station. Various operations allow efficient organization of bikes.
-
+### [Computational Geometry](https://github.com/albeertauleet/computational-geometry)
+A collection of computational geometry algorithms implemented for basic geometric primitives such as points, segments, and polygons. The project includes utilities for intersection testing, convex hull computation, and polygon triangulation.
 ### [Ejercicios EDA](https://github.com/albeertauleet/ejercicios-eda)
 Exercises to practice for the EDA exams in the Computer Engineering degree at UPC.
 
